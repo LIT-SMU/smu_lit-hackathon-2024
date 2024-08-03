@@ -22,9 +22,9 @@
 ### Code-heavy solutions
 
 1. Code-heavy solutions are to be uploaded as a repository to Github.
-  * [simple guide to git](https://rogerdudler.github.io/git-guide/)
-  * [github for dummies](https://madebymade.medium.com/github-for-dummies-96f753f96a59)
-  * [creating a new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
+      * [simple guide to git](https://rogerdudler.github.io/git-guide/)
+      * [github for dummies](https://madebymade.medium.com/github-for-dummies-96f753f96a59)
+      * [creating a new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
 2. Ensure the repository visibility settings are set to Public.
 3. Fill out the Solution Submission Form link [below](#important-links), and copy and paste the link to your github repository where requested.
 
