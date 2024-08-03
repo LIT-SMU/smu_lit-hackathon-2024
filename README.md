@@ -11,3 +11,4 @@
 ## Contact us
 
 * [@smulit](https://t.me/smulit)
+* [lit@sa.smu.edu.sg](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=lit@sa.smu.edu.sg)
